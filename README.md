@@ -1,4 +1,5 @@
-### ping2109: Founder & maintainer of NevaOS and MizuOS for Exynos7870. Currently interested in GSIs and adore kanging 🤤 </br> (づ￣ ³￣)づ❤
+### ping2109: Founder & maintainer of NevaOS and MizuOS for Exynos7870. Currently interested in GSIs and adore kanging 🤤 </br> 
+(づ￣ ³￣)づ❤
 
 <p align="left" >  
   <a href="https://github.com/ping2109/github-readme-stats"> 
