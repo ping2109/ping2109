@@ -1,16 +1,22 @@
-### Hi there 👋
+### ping2109: 9th grade student in the morn and android developer at night </br> (づ￣ ³￣)づ❤
 
-<!--
-**ping2109/ping2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left" >  
+  <a href="https://github.com/ping2109/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
+<p align="left" >   
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&show_icons=true&theme=radical"/>
+  </p>
 
-Here are some ideas to get you started:
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/>
+
+# Want to communicate?
+[![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/ping2109infos/12)
+[![Telegram badge](https://img.shields.io/badge/penk2109-30302f?style=flat&logo=telegram)](https://telegram.me/realpenk2109)
+
+### Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&redirect=true)
