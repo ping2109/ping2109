@@ -3,15 +3,15 @@
 
 <p align="left" >  
   <a href="https://github.com/ping2109/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=react"/>
   </a>
   </p>
   
 <p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&show_icons=true&theme=react"/>
   </p>
 
-![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=dark)
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=react)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/>
 
