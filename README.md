@@ -6,10 +6,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=react"/>
   </a>
   </p>
-  
-<p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&show_icons=true&theme=react"/>
-  </p>
 
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=react)
 
