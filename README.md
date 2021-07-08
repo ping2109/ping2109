@@ -9,11 +9,15 @@
 
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=react)
 
+<p align="left" >   
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=react"/>
+  </p>
+  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/>
 
 # Want to communicate?
-[![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/ping2109infos/12)
-[![Telegram badge](https://img.shields.io/badge/penk2109-30302f?style=flat&logo=telegram)](https://telegram.me/realpenk2109)
+[![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/pingmado)
+[![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/pingdoriya)
 
 ### Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&redirect=true)
