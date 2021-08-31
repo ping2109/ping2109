@@ -12,12 +12,13 @@
 <p align="left" >   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel0210&&show_icons=true&theme=react"/>
   </p>
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/>
+ 
 
 # Want to communicate?
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
 [![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/pingmado)
-[![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/pingdoriya)
+[![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/MidoriyaIsTheLoveOfMyLife)
+[![Telegram badge](https://img.shields.io/badge/GSI_channel-30302f?style=flat&logo=telegram)](https://telegram.me/ping2109GSIs)
 
 # Listening
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f61hnqrb2dhk2dw8unfg0btxj&count=3)
+![concu](https://spotify-recently-played-readme.vercel.app/api?user=f61hnqrb2dhk2dw8unfg0btxj&count=3)
