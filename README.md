@@ -19,5 +19,5 @@
 [![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/pingmado)
 [![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/pingdoriya)
 
-### Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=f61hnqrb2dhk2dw8unfg0btxj&redirect=true)
+# Listening
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f61hnqrb2dhk2dw8unfg0btxj&count=3)
