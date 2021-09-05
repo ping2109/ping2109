@@ -1,4 +1,4 @@
-### ping2109: 13yo chinese kid. Currently interested in Android GSIs and adore kanging 🤤 </br> 
+### ping2109: 13yo chinese kid. Currently interested in Android Porting and adore kanging 🤤 </br> 
 (づ￣ ³￣)づ❤
 
 <p align="left" >  
