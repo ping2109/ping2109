@@ -1,24 +1,19 @@
-### ping2109: 13yo chinese kid. Currently interested in Android Porting and adore kanging 🤤 </br> 
+## ping2109: 14yo offensive kid. Currently interested in Android Porting and adore kanging </br> 
 (づ￣ ³￣)づ❤
 
-<p align="left" >  
-  <a href="https://github.com/ping2109/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=react"/>
-  </a>
-  </p>
 
-![stat](https://github-readme-streak-stats.herokuapp.com/?user=ping2109&theme=react)
+## My stats
 
-<p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&show_icons=true&theme=react"/>
-  </p>
- 
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ping2109&&show_icons=true&theme=react" alt="ping2109" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ping2109&&layout=compact&theme=react&langs_count=6" />
+</div>
 
-# Want to communicate?
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
+## Want to communicate?
 [![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/pingmado)
 [![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/MidoriyaIsTheLoveOfMyLife)
 [![Telegram badge](https://img.shields.io/badge/GSI_channel-30302f?style=flat&logo=telegram)](https://telegram.me/ping2109GSIs)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
 
-# Listening
+## Listening
 ![concu](https://spotify-recently-played-readme.vercel.app/api?user=f61hnqrb2dhk2dw8unfg0btxj&count=3)
