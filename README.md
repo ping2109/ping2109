@@ -1,4 +1,4 @@
-## ping2109: 14yo offensive kid. Currently interested in Android Porting and adore kanging </br> 
+## ping2109: 14yo offensive kid. Interested in Android Porting and adore kanging </br> 
 (づ￣ ³￣)づ❤
 
 
