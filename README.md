@@ -14,6 +14,3 @@
 [![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/MidoriyaIsTheLoveOfMyLife)
 [![Telegram badge](https://img.shields.io/badge/GSI_channel-30302f?style=flat&logo=telegram)](https://telegram.me/ping2109GSIs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
-
-## Listening
-![concu](https://spotify-recently-played-readme.vercel.app/api?user=f61hnqrb2dhk2dw8unfg0btxj&count=3)
