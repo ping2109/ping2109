@@ -12,5 +12,5 @@
 ## Want to communicate?
 [![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/pingmado)
 [![Telegram badge](https://img.shields.io/badge/alt-30302f?style=flat&logo=telegram)](https://telegram.me/MidoriyaIsTheLoveOfMyLife)
-[![Telegram badge](https://img.shields.io/badge/GSI_channel-30302f?style=flat&logo=telegram)](https://telegram.me/ping2109GSIs)
+[![Telegram badge](https://img.shields.io/badge/Builds_channel-30302f?style=flat&logo=telegram)](https://telegram.me/ping2109builds)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
