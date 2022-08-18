@@ -1,5 +1,4 @@
-## ping2109: 14yo Vietnamese developer. Interested in macOS, iOS, iPhone modding and adore kanging </br> 
-(づ￣ ³￣)づ❤
+## ping2109: Just another Android developer with the bare minimum skills and based iSheep
 
 
 ## My stats
